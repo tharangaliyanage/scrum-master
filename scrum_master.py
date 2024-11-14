@@ -79,7 +79,7 @@ if "current_session_id" not in st.session_state:
 # Sidebar for managing chat sessions
 col11, col22 = st.sidebar.columns([1, 3])  # 1:3 ratio
 col11.image("logo.png", width=50)  # Replace "logo.png" with the path to your logo file
-col22.subheader("Agile Mentor")
+col22.subheader("Scrum Mentor")
 # st.sidebar.markdown("---")
 
 # Button to start a new chat session
