@@ -102,7 +102,7 @@ for index, session_id in enumerate(st.session_state["chat_sessions"]):
 
 
 # Main chat area
-st.title("Agile Development AI Assistant 💁")
+st.title("Scrum AI Assistant 💁")
 st.markdown("Welcome to Scrum Mentor! Ask any question to get started.")
 
 # Display the current session's chat history
